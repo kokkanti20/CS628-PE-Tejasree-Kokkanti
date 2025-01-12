@@ -1,6 +1,6 @@
 # CS628-PE-Tejasree-Kokkanti
 
-Input
+Input 
 
 The "MyResume" web application accepts fixed input data, encompassing the user's personal information, educational history, abilities, professional experience, and project specifics. This information is embedded in the Resume.js file as a React component. The application employs a designated CSS file, Resume.js, to format the page in accordance with the set criteria, including colors, margins, and typefaces.
 
